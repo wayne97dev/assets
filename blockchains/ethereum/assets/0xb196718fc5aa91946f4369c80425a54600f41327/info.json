@@ -1,0 +1,36 @@
+{
+    "name": "THE GRINCH",
+    "website": "https://grinch.finance/",
+    "description": "Hate, hate, hate. Hate, hate, hate. Double hate. LOATHE ENTIRELY! 🎄🎄🎄🎄",
+    "explorer": "https://etherscan.io/token/0xb196718fc5aa91946f4369c80425a54600f41327",
+    "type": "ERC20",
+    "symbol": "GRINCH",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb196718fc5aa91946f4369c80425a54600f41327",
+    "tags": [
+        "memecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/trusttoken/TrueUSD"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/grincherc20"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/grincherc20"
+        },
+        {
+            "name": "medium",
+            "url": "https://trueusd.medium.com/"
+        },
+        {
+            "name": "coingecko",
+            "url": ""
+        }
+    ]
+}
